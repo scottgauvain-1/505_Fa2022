@@ -2,4 +2,4 @@
 
 ## Scott Gauvain
 
-Email: [scott.gauvain@gmail.com](scott.gauvain@gmail.com)
+Email: [scott.gauvain@gmail.com](mailto:scott.gauvain@gmail.com)
