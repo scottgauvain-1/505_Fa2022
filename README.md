@@ -1,4 +1,4 @@
-# geos 505: research computing in earth and environmental sciences
+# Geos 505: Research Computing in Earth and Environmental Sciences
 
 ## Scott Gauvain
 
